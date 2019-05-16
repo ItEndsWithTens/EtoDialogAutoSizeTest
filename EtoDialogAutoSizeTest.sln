@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.csproj", "{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Gtk", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Gtk\EtoDialogAutoSizeTest.Gtk.csproj", "{981F787B-9AF4-4F3A-B16C-B0A965F0F452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Mac", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Mac\EtoDialogAutoSizeTest.Mac.csproj", "{929F1F87-F183-4442-AB8D-6ADA859870C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Wpf", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Wpf\EtoDialogAutoSizeTest.Wpf.csproj", "{9A8FEB49-9498-4FEF-8381-77027CE05C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.WinForms", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.WinForms\EtoDialogAutoSizeTest.WinForms.csproj", "{049A83B3-0881-4658-9325-EA0647AF6AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981F787B-9AF4-4F3A-B16C-B0A965F0F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981F787B-9AF4-4F3A-B16C-B0A965F0F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981F787B-9AF4-4F3A-B16C-B0A965F0F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981F787B-9AF4-4F3A-B16C-B0A965F0F452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929F1F87-F183-4442-AB8D-6ADA859870C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929F1F87-F183-4442-AB8D-6ADA859870C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929F1F87-F183-4442-AB8D-6ADA859870C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929F1F87-F183-4442-AB8D-6ADA859870C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8FEB49-9498-4FEF-8381-77027CE05C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8FEB49-9498-4FEF-8381-77027CE05C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8FEB49-9498-4FEF-8381-77027CE05C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8FEB49-9498-4FEF-8381-77027CE05C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049A83B3-0881-4658-9325-EA0647AF6AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049A83B3-0881-4658-9325-EA0647AF6AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049A83B3-0881-4658-9325-EA0647AF6AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049A83B3-0881-4658-9325-EA0647AF6AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036B2C1E-DFB7-4FEE-9581-1A6AF6A2B89F}
+	EndGlobalSection
+EndGlobal
