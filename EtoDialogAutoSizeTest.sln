@@ -1,17 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.csproj", "{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoDialogAutoSizeTest", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.csproj", "{682E5152-EDAB-4DE5-A147-BD1CEA4C4838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Gtk", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Gtk\EtoDialogAutoSizeTest.Gtk.csproj", "{981F787B-9AF4-4F3A-B16C-B0A965F0F452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoDialogAutoSizeTest.Gtk", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Gtk\EtoDialogAutoSizeTest.Gtk.csproj", "{981F787B-9AF4-4F3A-B16C-B0A965F0F452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Mac", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Mac\EtoDialogAutoSizeTest.Mac.csproj", "{929F1F87-F183-4442-AB8D-6ADA859870C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoDialogAutoSizeTest.Mac", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Mac\EtoDialogAutoSizeTest.Mac.csproj", "{929F1F87-F183-4442-AB8D-6ADA859870C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.Wpf", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Wpf\EtoDialogAutoSizeTest.Wpf.csproj", "{9A8FEB49-9498-4FEF-8381-77027CE05C57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoDialogAutoSizeTest.Wpf", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.Wpf\EtoDialogAutoSizeTest.Wpf.csproj", "{9A8FEB49-9498-4FEF-8381-77027CE05C57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoDialogAutoSizeTest.WinForms", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.WinForms\EtoDialogAutoSizeTest.WinForms.csproj", "{049A83B3-0881-4658-9325-EA0647AF6AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtoDialogAutoSizeTest.WinForms", "EtoDialogAutoSizeTest\EtoDialogAutoSizeTest.WinForms\EtoDialogAutoSizeTest.WinForms.csproj", "{049A83B3-0881-4658-9325-EA0647AF6AB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{019E1FF1-D943-4D20-A885-087B1B7499AF}"
+	ProjectSection(SolutionItems) = preProject
+		EtoDialogAutoSizeTest\Directory.Build.props = EtoDialogAutoSizeTest\Directory.Build.props
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
